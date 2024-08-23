@@ -11,16 +11,14 @@ Suricata rules
 3.  A dedicated page must be created to describe how the rules works and, if possible, example traffic with the link also included in the reference
 4.  Assume the analyst reviewing the alert/traffic has not prior knowledge
 
+* * *
+
 ###### Rules
 
 | Rule ID      | Description       | status       |
-|:-------------|:------------------|:------       |
-| 1000010      | Muddywater        | Operational  |
+| ---- | ---- | ---- |
+| [1000010](./apt_rules/1000010.md) | Muddywater | Operational |
 
 
 * * *
 
-
-```
-The final element.
-```
