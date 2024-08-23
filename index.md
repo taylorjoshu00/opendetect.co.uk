@@ -17,7 +17,7 @@ Suricata rules
 
 | Rule ID      | Description       | status       |
 | ---- | ---- | ---- |
-| [1000010](./apt_rules/1000010.md) | Muddywater | Operational |
+| [10000010](./apt_rules/10000010.md) | Muddywater | Operational |
 
 
 * * *
