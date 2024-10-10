@@ -15,9 +15,11 @@ Suricata rules
 
 ###### Rules
 
-| Rule ID      | Description       | status       |
+| Rule ID      | Description       |
 | ---- | ---- | ---- |
-| [10000010](./apt_rules/10000010.md) | Muddywater | Operational |
+| [1000010](./apt_rules/1000010.md) | Muddywater |
+| [1000011](./apt_rules/1000011.md) | Muddywater |
+| [1000012](./apt_rules/1000012.md) | Quasar RAT |
 
 
 * * *
